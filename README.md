@@ -26,7 +26,7 @@ done
 ```
 - **`oxipng` for final lossless PNG structure optimization:**
 ```bash
-oxipng -o max --strip safe --alpha "*_cropped.quant.png"
+oxipng -o max --strip safe --alpha *_cropped.quant.png
 ```
 
 - **`img2pdf` for lossless PDF embedding:**
